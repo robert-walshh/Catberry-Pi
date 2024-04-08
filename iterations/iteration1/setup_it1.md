@@ -36,7 +36,7 @@
 7. Install OpenCV `pip install opencv-python` (This may take some time)
 
 8. To confirm OpenCV has installed properly:
-   `python` , `import cv2` , `cv2.version` 
+   `python` , `import cv2` , `cv2.\_\_version\_\_` 
    This should display the version of OpenCV installed.
 
 9. You are now ready to run `iteration1.py`
