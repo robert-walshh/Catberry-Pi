@@ -1,8 +1,6 @@
 # Catberry Pi
 ## Iteration 1
 
----
-
 **Hardware**
 
 - Raspberry Pi 3 Model B Rev 1.2
@@ -36,7 +34,7 @@
 7. Install OpenCV `pip install opencv-python` (This may take some time)
 
 8. To confirm OpenCV has installed properly:
-   `python` , `import cv2` , `cv2.\_\_version\_\_` 
+   `python` , `import cv2` , `cv2.__version__`
    This should display the version of OpenCV installed.
 
 9. You are now ready to run `iteration1.py`
